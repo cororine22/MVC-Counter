@@ -1,2 +1,2 @@
 # MVC-Counter
-Conter App constructed by MVC, Swift
+Counter App constructed by MVC, Swift
